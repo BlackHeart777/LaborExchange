@@ -95,6 +95,5 @@ C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\LaborExchange\bin\ru
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\LaborExchange\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\LaborExchange\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\LaborExchange\bin\ru\System.Web.Http.Owin.resources.dll
-C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\LaborExchange\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\LaborExchange\obj\Debug\WebApp.dll
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\LaborExchange\obj\Debug\WebApp.pdb

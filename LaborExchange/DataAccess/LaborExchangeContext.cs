@@ -8,7 +8,12 @@ using DataAccess.Entities;
 
 namespace DataAccess
 {
-    class LaborExchangeContext:
+    class LaborExchangeContext:DbContext
     {
+        public DbSet<Applicant> Applicants { get; set; }
+        public DbSet<Employer> Employers { get; set; }
+        public DbSet<Invitation> Invitations { get; set; }
+        public DbSet<Tag> Tags { get; set; }
+        public DbSet<Vacancie> Vacancies { get; set; }
     }
 }
