@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\obj\Debug\TestProjectForCreateTestDb.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\bin\Debug\TestProjectForCreateTestDb.exe.config
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\bin\Debug\TestProjectForCreateTestDb.exe
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\bin\Debug\TestProjectForCreateTestDb.pdb
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\bin\Debug\DataAccess.dll
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\bin\Debug\DataAccess.pdb
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\obj\Debug\TestProjectForCreateTestDb.exe
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\obj\Debug\TestProjectForCreateTestDb.pdb
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\TestProjectForCreateTestDb\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
