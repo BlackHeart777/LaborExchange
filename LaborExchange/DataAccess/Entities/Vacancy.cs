@@ -27,5 +27,20 @@ namespace DataAccess.Entities
         /// List of duties in vacancy.
         /// </summary>
         public string ListOfConditions { get; set; }
+
+        /// <summary>
+        /// Tags that are applicant is appointed.
+        /// </summary>
+        public ICollection<Tag> Tags { get; set; }
+
+        /// <summary>
+        /// Applicants that are interested is vacancy.
+        /// </summary>
+        public ICollection<Applicant> Applicants { get; set; }
+
+        /// <summary>
+        /// Employer that created this vacancy.
+        /// </summary>
+        public ICollection<Employer> Employers { get; set; }
     }
 }
