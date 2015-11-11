@@ -54,9 +54,9 @@
     <Compile Include="Entities\Employer.cs" />
     <Compile Include="Entities\Invitation.cs" />
     <Compile Include="LaborExchangeContext.cs" />
-    <Compile Include="Migrations\201511102258289_InitialCreate.cs" />
-    <Compile Include="Migrations\201511102258289_InitialCreate.Designer.cs">
-      <DependentUpon>201511102258289_InitialCreate.cs</DependentUpon>
+    <Compile Include="Migrations\201511111442274_settingsDb.cs" />
+    <Compile Include="Migrations\201511111442274_settingsDb.Designer.cs">
+      <DependentUpon>201511111442274_settingsDb.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -71,11 +71,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201511102258289_InitialCreate.resx">
-      <DependentUpon>201511102258289_InitialCreate.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201511111442274_settingsDb.resx">
+      <DependentUpon>201511111442274_settingsDb.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

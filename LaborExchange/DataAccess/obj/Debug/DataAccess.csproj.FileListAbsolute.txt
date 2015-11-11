@@ -8,6 +8,6 @@ C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\bin\Debug
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug\DataAccess.pdb
-C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug\DataAccess.Migrations.InitialCreate.resources
-C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug\DataAccess.Migrations.settingsDb.resources
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache

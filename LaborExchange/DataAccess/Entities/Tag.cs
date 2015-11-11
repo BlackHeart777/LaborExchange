@@ -26,6 +26,7 @@ namespace DataAccess.Entities
         /// </summary>
         [Required]
         [Index("IX_FieldIndex_Tag_Name", IsUnique = true)]
+        [MaxLength(450)]
         public string Name { get; set; }
     }
 }
