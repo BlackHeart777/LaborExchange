@@ -15,7 +15,7 @@ namespace DataAccess.Entities
         /// Applicant id.
         /// </summary>
         [Key]
-        [Index("IX_FieldIndex_Id", IsUnique = true)]
+        [Index("IX_FieldIndex_Applicant_Id", IsUnique = true)]
         public int Id { get; set; }
 
         /// <summary>
@@ -56,7 +56,7 @@ namespace DataAccess.Entities
         /// Appliccant e-mail.
         /// </summary>
         [Required]
-        [Index("IX_FieldIndex_Email",IsUnique = true)]
+        [Index("IX_FieldIndex_Applicant_Email", IsUnique = true)]
         [MaxLength(450)]
         [EmailAddress]
         public string Email { get; set; }

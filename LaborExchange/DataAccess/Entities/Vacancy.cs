@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DataAccess.Entities
 {
@@ -11,26 +14,32 @@ namespace DataAccess.Entities
         /// <summary>
         /// Vacancy Id.
         /// </summary>
+        [Key]
+        [Index("IX_FieldIndex_Vacancy_Id", IsUnique = true)]
         public int Id { get; set; }
 
         /// <summary>
         /// List of requirements in vacancy.
         /// </summary>
+        [Required]
         public string ListOfRequirements { get; set; }
 
         /// <summary>
         /// List of duties in vacancy.
         /// </summary>
+        [Required]
         public string ListOfDuties { get; set; }
 
         /// <summary>
         /// List of duties in vacancy.
         /// </summary>
+        [Required]
         public string ListOfConditions { get; set; }
 
         /// <summary>
         /// Tags that are applicant is appointed.
         /// </summary>
+        [Required]
         public ICollection<Tag> Tags { get; set; }
 
         /// <summary>

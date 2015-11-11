@@ -10,3 +10,4 @@ C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug\DataAccess.pdb
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug\DataAccess.Migrations.InitialCreate.resources
 C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\LaborExchange\LaborExchange\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
