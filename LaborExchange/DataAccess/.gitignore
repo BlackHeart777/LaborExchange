@@ -5,7 +5,7 @@
 /AkvelonMap.WebApp/Logs/*
 
 #UploadIgnore
-/AkvelonMap.WebApp/Resources/upload/*
+\LaborExchange\LaborExchange\TestProjectForCreateTestDb*
 
 #NuGet
 packages
