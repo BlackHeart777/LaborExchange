@@ -67,5 +67,10 @@ namespace DataAccess.Entities
         /// Tags that are applicant is appointed.
         /// </summary>
         public ICollection<Tag> Tags { get; set; }
+
+        /// <summary>
+        /// Jobs that are of interest to the applicant.
+        /// </summary>
+        public ICollection<Vacancy> Vacancies { get; set; }
     }
 }

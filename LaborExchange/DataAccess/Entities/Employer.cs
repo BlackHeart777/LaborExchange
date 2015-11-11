@@ -52,5 +52,10 @@ namespace DataAccess.Entities
         /// Kind of activity of company.
         /// </summary>
         public string KindOfActivity { get; set; }
+
+        /// <summary>
+        /// Vacancies that are employer of created.
+        /// </summary>
+        public ICollection<Vacancy> Vacancies { get; set; }
     }
 }

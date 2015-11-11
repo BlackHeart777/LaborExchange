@@ -37,10 +37,5 @@ namespace DataAccess.Entities
         /// Applicants that are interested is vacancy.
         /// </summary>
         public ICollection<Applicant> Applicants { get; set; }
-
-        /// <summary>
-        /// Employer that created this vacancy.
-        /// </summary>
-        public ICollection<Employer> Employers { get; set; }
     }
 }
