@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DataAccess.Entities
 {
@@ -11,21 +14,26 @@ namespace DataAccess.Entities
         /// <summary>
         /// Applicant id.
         /// </summary>
+        [Key]
+        [Index("IX_FieldIndex_Id", IsUnique = true)]
         public int Id { get; set; }
 
         /// <summary>
         /// Appliccant first name.
         /// </summary>
+        [Required]
         public string FirstName { get; set; }
 
         /// <summary>
         /// Appliccant second name.
         /// </summary>
+        [Required]
         public string SecondName { get; set; }
 
         /// <summary>
         /// Appliccant birthday.
         /// </summary>
+        [Required]
         public DateTime Birthday { get; set; }
 
         /// <summary>
@@ -36,6 +44,7 @@ namespace DataAccess.Entities
         /// <summary>
         /// Appliccant phone.
         /// </summary>
+        [Required]
         public string Phone { get; set; }
 
         /// <summary>
@@ -46,6 +55,10 @@ namespace DataAccess.Entities
         /// <summary>
         /// Appliccant e-mail.
         /// </summary>
+        [Required]
+        [Index("IX_FieldIndex_Email",IsUnique = true)]
+        [MaxLength(450)]
+        [EmailAddress]
         public string Email { get; set; }
 
         /// <summary>
